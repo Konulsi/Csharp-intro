@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\bin\Debug\net6.0\Csharp-new.exe
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\bin\Debug\net6.0\Csharp-new.deps.json
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\bin\Debug\net6.0\Csharp-new.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\bin\Debug\net6.0\Csharp-new.dll
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\bin\Debug\net6.0\Csharp-new.pdb
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.dll
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\refint\Csharp-new.dll
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.pdb
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\Csharp-new.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\C#\Csharp-new\Csharp-new\obj\Debug\net6.0\ref\Csharp-new.dll
